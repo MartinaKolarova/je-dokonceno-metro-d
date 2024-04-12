@@ -1,0 +1,23 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+::after,
+::before {
+  box-sizing: inherit;
+}
+
+body {
+  background-image: url(metrod.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+div {
+  padding-top: 20%;
+  color: rgb(5, 115, 194);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-style: normal;
+  font-size: xx-large;
+}
